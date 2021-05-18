@@ -49,6 +49,7 @@ I want to work with `Cloud Computing`
 - Playing chess
 - Reading Books
 - Browesing Intenet on New Technolgy
+- Creating Best out of waste
 
 ### **Strength and Weakness**
 - *Strength*:
@@ -58,6 +59,7 @@ I want to work with `Cloud Computing`
 - *Weakness*
     - Too detail oriented
 ### **Achievement**
-- 1St Prize On Aritificial Intelligence
-- 1st Prize On Cloud Computing
+- 1St Prize On Aritificial Intelligence Poster Presentation
+- 1st Prize On Cloud Computing Poster Presentation
 - 2nd Price On Lifi Project
+
