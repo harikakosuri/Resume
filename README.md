@@ -8,7 +8,9 @@
 - MailId:harikakosuri09@gmail.com<br>
 - phone:+91 9542757088<br>
 - Address:Vijayawada<br>
+- 
 ### Education Details:
+
 ### **B-Tech**
 - College Name:__Devineni Venkata Ramana and Dr.Hima Shekar MIC College Of Technology__<br>
 - Branch: Computer Science Engineering<br>
@@ -58,6 +60,7 @@ I want to work with `Cloud Computing`
     - Taking Initiative
 - *Weakness*
     - Too detail oriented
+   
 ### **Achievement**
 - 1St Prize On Aritificial Intelligence Poster Presentation
 - 1st Prize On Cloud Computing Poster Presentation
