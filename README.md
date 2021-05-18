@@ -5,7 +5,7 @@
 ### Personal Details
 
 - Name:Harika.Kosuri<br>
-- MailId:harikakosuri09@gmail.com<br>
+- Mail Id:harikakosuri09@gmail.com<br>
 - phone:+91 9542757088<br>
 - Address:Vijayawada<br>
 
