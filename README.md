@@ -55,11 +55,12 @@ I want to work with `Cloud Computing`
 
 ### **Strengths and Weakness**
 - *Strengths*:
-    - Creativity
-    - Focused
     - Taking Initiative
+    - Programing
+    - Web Devlopment
 - *Weakness*
     - Too detail oriented
+    - Delegation skills
    
 ### **Achievement**
 - 1St Prize On Aritificial Intelligence Poster Presentation
