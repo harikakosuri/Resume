@@ -4,10 +4,10 @@
 =================
 ### Personal details
 
-- Name:HArika.Kosuri<br>
+- Name:Harika.Kosuri<br>
 - MailId:harikakosuri09@gmail.com<br>
 - phone:+91 9542757088<br>
-- Address:Vijayawada,br>
+- Address:Vijayawada<br>
 ### Education Details:
 ### **B-Tech**
 - College Name:__Devineni Venkata Ramana and Dr.Hima Shekar MIC College Of Technology__<br>
@@ -51,8 +51,8 @@ I want to work with `Cloud Computing`
 - Browesing Intenet on New Technolgy
 - Creating Best out of waste
 
-### **Strength and Weakness**
-- *Strength*:
+### **Strengths and Weakness**
+- *Strengths*:
     - Creativity
     - Focused
     - Taking Initiative
