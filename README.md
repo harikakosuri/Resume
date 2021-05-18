@@ -1,8 +1,8 @@
 # Resume
 
 ## Harika Kosuri
-=================
-### Personal details
+====================
+### Personal Details
 
 - Name:Harika.Kosuri<br>
 - MailId:harikakosuri09@gmail.com<br>
@@ -24,7 +24,7 @@
 - Address:Vijayawada<br>
 
 ### **CBSE**
-- College Name:__Nalanda Vidya Niketan__<br>
+- School Name:__Nalanda Vidya Niketan__<br>
 - Branch: 10th<br>
 - Year Of Study: 2004 - 2016<br>
 - Precentage:70%<br>
@@ -63,3 +63,18 @@ I want to work with `Cloud Computing`
 - 1st Prize On Cloud Computing Poster Presentation
 - 2nd Price On Lifi Project
 
+### **Technical Competitions **
+- Participated for paper presentation on Artificial Intelligence in AAGAMA-19
+- Participated for poster presentation on Artificial Intelligence   in AAGAMA_19
+- Participated in the event Poster Competition on the occasion of JAL DIWAS  
+- Participation in science Fair on Model-Pollution and Global Warming
+- Participated for poster presentation in Lakireddy Bali Reddy College 
+- Participated in Technical Treasure hunt Event
+- Participated in Innnovative idea contest
+- Participated in best out of waste
+- Participated for ideathon in our collage 
+- Participated for paper presentation in Prasad V Potluri Siddhartha College
+- Participated for project event in srk college
+- Participated for paper presentation in srk college
+- Participated for project event in AAGAMA_20
+- Participated for coding context in Prasad V Potluri Siddhartha College
