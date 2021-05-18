@@ -50,14 +50,14 @@ I want to work with `Cloud Computing`
 ### **Hobbies**
 - Playing chess
 - Reading Books
-- Browesing Intenet on New Technolgy
+- Browsing Internet on current Technology
 - Creating Best out of waste
 
 ### **Strengths and Weakness**
 - *Strengths*:
     - Taking Initiative
-    - Programing
-    - Web Devlopment
+    - Creative Thinking/Problem Solving
+    - Web Development
 - *Weakness*
     - Too detail oriented
     - Delegation skills
@@ -65,7 +65,7 @@ I want to work with `Cloud Computing`
 ### **Achievement**
 - 1St Prize On Aritificial Intelligence Poster Presentation
 - 1st Prize On Cloud Computing Poster Presentation
-- 2nd Price On Lifi Project
+- 2nd Price On LIGHT FIDELITY[Lifi] Project
 
 ### **Technical Competitions**
 - Participated for paper presentation on Artificial Intelligence in AAGAMA-19
