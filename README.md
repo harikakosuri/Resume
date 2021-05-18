@@ -10,7 +10,7 @@
 - Address:Vijayawada,br>
 ### Education Details:
 ### **B-Tech**
-- College Name:__MIC College__<br>
+- College Name:__Devineni Venkata Ramana and Dr.Hima Shekar MIC College Of Technology__<br>
 - Branch: Computer Science Engineering<br>
 - Year Of Study: 2018 - 2022<br>
 - Precentage:80%<br>
@@ -23,7 +23,7 @@
 - Precentage:88%<br>
 - Address:Vijayawada<br>
 
-### **CBSC**
+### **CBSE**
 - College Name:__Nalanda Vidya Niketan__<br>
 - Branch: 10th<br>
 - Year Of Study: 2004 - 2016<br>
@@ -41,6 +41,7 @@
 
 ### **Project**
 - LIFI Project
+
 ### **Goals**
 I want to work with `Cloud Computing`
 
@@ -49,7 +50,14 @@ I want to work with `Cloud Computing`
 - Reading Books
 - Browesing Intenet on New Technolgy
 
-### **Achevements**
+### **Strength and Weakness**
+- *Strength*:
+    - Creativity
+    - Focused
+    - Taking Initiative
+- *Weakness*
+    - Too detail oriented
+### **Achievement**
 - 1St Prize On Aritificial Intelligence
 - 1st Prize On Cloud Computing
 - 2nd Price On Lifi Project
