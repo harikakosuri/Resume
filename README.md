@@ -66,7 +66,7 @@ I want to work with `Cloud Computing`
 - 1st Prize On Cloud Computing Poster Presentation
 - 2nd Price On Lifi Project
 
-### **Technical Competitions **
+### **Technical Competitions**
 - Participated for paper presentation on Artificial Intelligence in AAGAMA-19
 - Participated for poster presentation on Artificial Intelligence   in AAGAMA_19
 - Participated in the event Poster Competition on the occasion of JAL DIWAS  
