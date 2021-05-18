@@ -8,7 +8,7 @@
 - MailId:harikakosuri09@gmail.com<br>
 - phone:+91 9542757088<br>
 - Address:Vijayawada<br>
-- 
+
 ### Education Details:
 
 ### **B-Tech**
